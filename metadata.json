@@ -1,0 +1,6 @@
+{
+  "name": "GeoShield AI",
+  "description": "AI-based early warning and landslide risk monitoring system in the North Eastern Region (NER) featuring predictive nowcasting, GIS hazard mapping, safe corridor routing, and incident triage.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
